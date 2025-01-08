@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Environmental Engineer, currently PhD Student in Ecology and Conservation, passionate about invasion ecology, wine, and cats. 🌎🍷😸
+I'm an Environmental Engineer and Invasion Ecologist, currently doing a Postdoc at Université Paris Saclay 🌎😸
 <!--
 **lalacarneiro/lalacarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
